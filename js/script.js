@@ -1,6 +1,6 @@
 $(document).ready(function() {
-	var deviceID    = "55ff6a065075555345371487";
-    var accessToken = "466f1496253dbbf444934e303da5ac69c5409884";
+	var deviceID    = "device ID";
+    var accessToken = "Access Token";
     var power = 0; // 0 = off, 1 = on
 	var brew = 0; // 1 = brewing, 0 = idle
 	var command = ""; // sendData type
